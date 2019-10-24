@@ -1,3 +1,4 @@
+// componente que consume los datos de firbase y es usado en app.js
 import React from 'react';
 import firebase from "./firebase";
 class Getcomunidades extends React.Component {
