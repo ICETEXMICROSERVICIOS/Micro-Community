@@ -20,6 +20,7 @@ function App() {
           ICETEX
         </a>
       </header>
+    // aqui agregamos el componente que consume los datos de firebase y los muestra por consola
       <Getcomunidades/>
     </div>
   );
